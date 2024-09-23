@@ -1,0 +1,29 @@
+
+Exercício de Programação Orientada a Objetos: Sistema de Biblioteca
+
+Imagine que você está desenvolvendo um sistema para uma biblioteca. Crie as classes necessárias para representar livros, usuários e transações de empréstimo. Considere as seguintes especificações:
+
+Classe Livro:
+
+1 - A classe Livro deve ter atributos como título, autor, ano de publicação, e um identificador único (ID do livro).
+Deve ser possível imprimir os detalhes de um livro, incluindo todas as suas informações.
+
+Classe Usuário:
+
+2 - A classe Usuário deve representar os membros da biblioteca, e deve ter atributos como nome, número de identificação do usuário e lista de livros atualmente em posse do usuário.
+Deve ser possível adicionar um livro à lista de livros em posse do usuário, remover um livro e imprimir os detalhes do usuário.
+
+Classe Transação:
+
+3 - Crie uma classe Transação para representar o processo de empréstimo de um livro a um usuário.
+A transação deve incluir o livro emprestado, o usuário que o pegou emprestado e a data da transação.
+
+Restrições:
+
+4 - Um usuário não pode ter mais do que 5 livros em posse ao mesmo tempo.
+Um livro não pode ser emprestado se já estiver em posse de outro usuário.
+Adicione métodos às classes conforme necessário para garantir a integridade dos dados e para realizar as operações mencionadas.
+Teste do Sistema:
+
+Crie uma instância de cada classe (livro, usuário e transação) e realize uma série de operações para testar o sistema. Por exemplo, crie alguns livros, usuários, empreste livros, devolva livros e imprima os detalhes dos livros e usuários após cada transação.
+Este exercício proporcionará uma oportunidade para praticar a criação de classes, atributos, métodos, encapsulamento e a interação entre objetos em um contexto de programação orientada a objetos.

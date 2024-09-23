@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Celmar Pereira",
+    "id": 1,
+    "livros": [
+      {
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "publicacao": 1605,
+        "id": 1
+      },
+      {
+        "titulo": "Saudades",
+        "autor": "George Orwell",
+        "publicacao": 1955,
+        "id": 3
+      }
+    ]
+  },
+  {
+    "nome": "Valmir Lucas",
+    "id": 2,
+    "livros": [
+      {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "publicacao": 1949,
+        "id": 2
+      }
+    ]
+  }
+]
